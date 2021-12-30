@@ -2,7 +2,7 @@
 ![ptn1](https://user-images.githubusercontent.com/89916459/147343371-f0a1a38f-168e-4346-bd5b-a3a49b02badd.PNG)
 # About The Project
 Photon is a photo search website. It was built while I was learning about frontend development by HTML, CSS and JavaScript that were basic fundamentals of frontend development. I built it to showcase and improve my skills
-# What Languages I Used to This Project
+# What Languages I Used
 * HTML
 * CSS
   * Styled all HTML elements
