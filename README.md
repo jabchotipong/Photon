@@ -9,12 +9,14 @@ Photon is a photo search website. It was built while I was learning about fronte
   * Used flexbox to allow elements to align and distribute space within a container
 * JavaScript
   * Added events on buttons
-  * Used function fetch to get data from api
+  * Used fetch method to get data from api
   * Used asynchronous function
 
 # Sample Pictures
-You can **SEARCH**
+**SEARCH** function
+
 ![ptn2](https://user-images.githubusercontent.com/89916459/147343376-dd4007de-4e4d-48e6-896b-595ab4198f3b.PNG)
 
 # Designed for different screens and devices
+
 ![ptn3mb](https://user-images.githubusercontent.com/89916459/147343381-b89bbcc6-62d9-4768-a017-52c41b7c135a.PNG)
